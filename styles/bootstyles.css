@@ -1,0 +1,52 @@
+body {
+    /*background-color: #000000;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.common{
+    background-color:white;
+    position: absolute;
+}
+
+.myheader {
+   width: 95%;
+   height: 100px;
+ 
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    width: 95%;
+    padding-right: 5px;
+    position: absolute; 
+
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 10px;
+    padding-top: 20px;
+    font-size: 8px;
+    color: gray;
+    text-align: center;
+    position: fixed;
+
+}
+.subheader{
+    float: right;
+}
+
+.link{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
